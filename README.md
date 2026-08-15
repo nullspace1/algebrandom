@@ -142,3 +142,17 @@ MIT
 - Add more distributions
 - Add more operations (e.g. sin, cos, etc.)
 - Add more identities between random variables
+- Plotting support (?)
+- Vector valued RV support
+- Treatment of discrete random variables
+
+# Usage of AI
+
+AI was utilized while creating this repository. In particular, it was used for:
+
+- Accelerating development (quickly transforming ideas/plan into code to verify behaviour)
+- A small amount of brainstorming
+- Generating a useful README.md
+- Test case generation (test plan -> code pipeline)
+
+All major design decisions (abstractions, general algorithms) were human designed.
