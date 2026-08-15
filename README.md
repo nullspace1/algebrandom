@@ -145,6 +145,7 @@ MIT
 - Plotting support (?)
 - Vector valued RV support
 - Treatment of discrete random variables
+- Configuration objects to alter default RNG, sample count
 
 # Usage of AI
 
